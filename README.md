@@ -1,2 +1,3 @@
 # Certifications-Skills
 [Raine Brookshire.pdf](https://github.com/user-attachments/files/25402835/Raine.Brookshire.pdf)
+<img width="689" height="470" alt="Screenshot 2026-02-18 194222" src="https://github.com/user-attachments/assets/7f3f9361-b384-4c0d-98b0-1d85f815d269" />
