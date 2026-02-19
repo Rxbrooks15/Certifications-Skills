@@ -9,5 +9,4 @@
 
 ![Data Bricks](https://github.com/user-attachments/assets/bfb08040-baa6-497e-92b6-4d9857d53dcc)
 
-![1752858965113](https://github.com/user-attachments/assets/9f3e306a-2177-4451-a4f2-433f8196530e)
 
