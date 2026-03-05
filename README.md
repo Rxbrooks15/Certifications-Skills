@@ -1,7 +1,8 @@
 # Certifications-Skills
 Certifications showcase technical proficiency in Artificial Intelligence, SQL, PowerBI, Data Engineering, Data/ Business Analytics, Database Systems, demonstrating a strong foundation for supporting system enhancements and data-driven decision-making.
-[PMP® Certification Training - Leading Instructor-led Online PMP® Course in the USA & Canada (1).pdf](https://github.com/user-attachments/files/25777072/PMP.Certification.Training.-.Leading.Instructor-led.Online.PMP.Course.in.the.USA.Canada.1.pdf)
 
+
+<img width="769" height="505" alt="pmp" src="https://github.com/user-attachments/assets/18282e91-e1f5-41dd-8467-e1a38b0ff315" />
 
 
 [Raine Brookshire.pdf](https://github.com/user-attachments/files/25402835/Raine.Brookshire.pdf)
